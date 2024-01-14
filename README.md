@@ -1,2 +1,2 @@
-# art-pi-board
-this repo is for art-pi-board of rt-thread
+# applications
+this repo is for applications of rt-thread

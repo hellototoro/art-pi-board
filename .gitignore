@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# eclipse project files
+.settings/
+Debug/
+
+# temp
+bootloader/
+ExtMem_Boot/
+
+# other
+test/
